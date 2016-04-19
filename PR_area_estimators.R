@@ -4,7 +4,7 @@ PR_area_estimators <- function(M){
   #' the area under the precision-recall curve. 
   #' This function is supplementary material for the paper 
   #' "An Experimental Investigation on the Noise Resilience of Ranking Measures"
-  #' submitted to ICONIP 2016 by Daniel Berrar.
+  #' by Daniel Berrar.
   #' 
   #' The function calculates the following estimators:
   #' 
