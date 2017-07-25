@@ -17,6 +17,7 @@ PR_area_estimators <- function(M){
   #'        The first column contains the real class label, where
   #'        1 indicates positive and 0 indicates negative.
   #'        n refers to the total number of instances.
+  #'        The second columns contains the ranking scores.
   #' 
   #' OUTPUT: AUCPR_avg, AUCPR_minmax, AUCPR_max, and AUCPR_min.
   #' 
